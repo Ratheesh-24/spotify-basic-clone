@@ -1,0 +1,50 @@
+
+.btn.dropdown-toggle  {
+    width:150px;
+    text-align:left;
+}
+
+span.caret {
+    position: absolute;
+    left: 90%;
+    top: 45%;
+}
+
+label {
+    padding-top:5px;
+}
+
+.form-label {
+    padding-left:0px;
+}
+
+img {
+    width:140px;
+    height:140px;
+}
+
+
+.btn-success:hover {
+    background-color: #043b11;
+}
+
+img.track {
+    border: 1px solid #da2d2d;
+}
+
+.login>img{
+    width:45%;
+    padding: 10px;
+}
+#btn_submit{
+padding: 20px;
+border-radius: 99px;
+background-color: #1db954;
+font-weight: 800;
+color: white;
+text-decoration: none;
+}
+
+*{
+    background-color: orange;
+}
